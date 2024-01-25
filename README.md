@@ -18,3 +18,18 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 apps.csv: contains all the details of the apps on Google Play. These are the features that describe an app. user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
 
 ![image](https://github.com/JuanF3/Datacamp-Projects/assets/60745140/24d67825-92ba-49fc-afc0-68eb6688c073)
+
+## What and Where are the World's Oldest Businesses
+
+
+The oldest businesses in the world
+This is Staffelter Hof Winery, Germany's oldest business, which was established in 862 under the Carolingian dynasty. It has continued to serve customers through dramatic changes in Europe such as the Holy Roman Empire, the Ottoman Empire, and both world wars. What characteristics enable a business to stand the test of time? Image credit: Martin Kraft The entrance to Staffelter Hof Winery, a German winery established in 862.
+
+To help answer this question, BusinessFinancing.co.uk researched the oldest company that is still in business in almost every country and compiled the results into a dataset. Let's explore this work to to better understand these historic businesses. Our datasets, which are all located in the datasets directory, contain the following information:
+
+![image](https://github.com/JuanF3/Datacamp-Projects/assets/60745140/09f1c9ea-925d-4883-ad02-e6e12dda7d0d)
+
+![image](https://github.com/JuanF3/Datacamp-Projects/assets/60745140/ab810b89-9a3b-452a-9fdc-46c042444244)
+
+
+
